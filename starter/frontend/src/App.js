@@ -25,9 +25,3 @@ export default function App() {
     </div>
   );
 }
-
-// triggering CI test
-// trigger frontend deploy# trigger frontend deploy
-# trigger frontend deploy
-# trigger frontend deploy
-# trigger frontend deploy
