@@ -1,0 +1,8 @@
+creds.sh
+check.sh
+restart.sh
+setup/terraform/.terraform/
+setup/terraform/.terraform.lock.hcl
+setup/terraform/terraform.tfstate
+setup/terraform/terraform.tfstate.backup
+setup/terraform/terraform.tfstate
