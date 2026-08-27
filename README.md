@@ -2,6 +2,8 @@
 
 **GitHub Repository:** https://github.com/mak-1007/cd12354-Movie-Picture-Pipeline
 
+**Deployment Proof Screenshots:** See `/Screenshots` folder in this repository
+
 You've been brought on as the DevOps resource for a development team that manages a web application that is a catalog of Movie Picture movies. They're in dire need of automating their development workflows in hopes of accelerating their release cycle. They'd like to use Github Actions to automate testing, building and deploying their applications to an existing Kubernetes cluster.
 
 The team's project is comprised of 2 application.
