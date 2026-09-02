@@ -1,1 +1,0 @@
-git add .gitignore setup/init.sh setup/terraform/main.tf setup/terraform/variables.tf setup/terraform/versions.tf
